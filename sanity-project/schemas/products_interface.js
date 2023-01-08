@@ -6,7 +6,7 @@ export default {
     { // one object for the image
       name: 'image',
       title: 'Image',
-      type: 'image',            // array of images
+      type: 'image',          
     },
     {
       name: 'name',
