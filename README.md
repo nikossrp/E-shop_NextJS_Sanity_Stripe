@@ -1,6 +1,6 @@
 ## Full Stack E-shop with NextJS, Sanity and Stripe
 
-This is an e-shop in which you can even implement payments (in test mode) using the [Stripe](https://stripe.com/en-gr)
+This is an e-shop in which you can even implement payments (in test mode) using [Stripe](https://stripe.com/en-gr)
 
 I also used for the first time [Sanity](https://www.sanity.io/). Through Sanity, developer or client will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
 Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases.
